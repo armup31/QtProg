@@ -5,7 +5,7 @@ Will soon be visible on **https://qt.infiinite.me**
 
 ## Requirements
 ```
-Python3.10.3
+Python==3.10.3
 Pyqt5
 ...
 ```
