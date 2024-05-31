@@ -1,6 +1,6 @@
 # QtProg
 Interesting things made in python using pyqt5. Could be anything!<br>
-fork it and send a pr I'll make sure to review your code and add it.
+Fork it and send a pr I'll make sure to review your code and add it.<br>
 Will soon be visible on **https://qt.infiinite.me**
 
 ## Requirements
@@ -10,5 +10,5 @@ Pyqt5
 ...
 ```
 
-## Want to sponsor me?
+### Want to sponsor me? 
 **UPI** : arman31@fam
