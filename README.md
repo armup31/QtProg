@@ -5,8 +5,9 @@ Will soon be visible on **https://qt.infiinite.me**
 
 ## Requirements
 ```
-Python==3.10.3
-Pyqt5
+Python V3.10.11 (Reccommended because I use that)
+PyQt5
+Qt Designer (Software) (https://build-system.fman.io/qt-designer-download)
 ...
 ```
 
